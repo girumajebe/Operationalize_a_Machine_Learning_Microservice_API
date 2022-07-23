@@ -1,4 +1,4 @@
-[![CircleCI](https://app.circleci.com/pipelines/github/girumajebe/Operationalize_a_Machine_Learning_Microservice_API/.svg?style=svg)](https://app.circleci.com/pipelines/github/girumajebe/Operationalize_a_Machine_Learning_Microservice_API/)
+[![CircleCI](https://circleci.com/gh/girumajebe/Operationalize_a_Machine_Learning_Microservice_API.svg?style=svg)](https://circleci.com/gh/girumajebe/Operationalize_a_Machine_Learning_Microservice_API)
 # Operationalize-a-Machine-Learning-Microservice-API
 Microservice Project [Udacity Cloud DevOps Engineer Nanodegree]
 
