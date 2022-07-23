@@ -6,7 +6,7 @@
 # Step 1:
 # Create dockerpath
 # dockerpath=<your docker ID/path>
-dockerpath="clairelee7522/mlapi"
+dockerpath="girumajebe/mlapi"
 
 # Step 2:  
 # Authenticate & tag
